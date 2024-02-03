@@ -1,0 +1,86 @@
+[
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/__init__.py",
+        "type": "file",
+        "size": 283,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/task7.py",
+        "type": "file",
+        "size": 2652,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/users.pickle",
+        "type": "file",
+        "size": 84,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/task4.py",
+        "type": "file",
+        "size": 502,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/new_user.csv",
+        "type": "file",
+        "size": 121,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/users.json",
+        "type": "file",
+        "size": 149,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/task2.py",
+        "type": "file",
+        "size": 690,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/new_user.json",
+        "type": "file",
+        "size": 251,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/task3.py",
+        "type": "file",
+        "size": 867,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/task5.py",
+        "type": "file",
+        "size": 604,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/users.csv",
+        "type": "file",
+        "size": 41,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/task6.py",
+        "type": "file",
+        "size": 529,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/task1.py",
+        "type": "file",
+        "size": 1023,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    },
+    {
+        "path": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package/new_user.pickle",
+        "type": "file",
+        "size": 129,
+        "parent_directory": "/home/zaur/Learning/Data_Engineer/Deep_Python/Homework8/Package"
+    }
+]
